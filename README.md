@@ -2,6 +2,10 @@
 
 A for-fun project trying out a few design ideas as well as looking at CSS Grid and Styled Components.
 
+[Example](https://github.com/aaronmarruk/bookshelf/blob/master/screencapture-localhost-3000-1518473323903.png)
+
+Built using:
+
 <p align="center"><a href="https://medium.com/@notrab/getting-started-with-create-react-app-redux-react-router-redux-thunk-d6a19259f71f"><img src="https://i.imgur.com/PATsTx2.png" title="View tutorial" alt="React, React Router, Redux and Redux Thunk" width="900"></a></p>
 
 [![Dependency Status](https://dependencyci.com/github/notrab/create-react-app-redux/badge)](https://dependencyci.com/github/notrab/create-react-app-redux)
